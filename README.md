@@ -1,1 +1,1 @@
-# Ease-HR-Employee-Portal-
+# Ease-HR (Employee Portal)
